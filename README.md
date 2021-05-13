@@ -1,0 +1,1 @@
+API that acts as an online store with limited functionality
